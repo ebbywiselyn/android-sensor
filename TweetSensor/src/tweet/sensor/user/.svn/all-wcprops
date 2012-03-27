@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/32/trunk/TweetSensor/src/tweet/sensor/user
+END
+TweetSensorUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/trunk/TweetSensor/src/tweet/sensor/user/TweetSensorUserService.java
+END
+UserInfoActivityFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/32/trunk/TweetSensor/src/tweet/sensor/user/UserInfoActivityFeature.java
+END
+UserInfoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/32/trunk/TweetSensor/src/tweet/sensor/user/UserInfoHandler.java
+END
+UserInfoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/32/trunk/TweetSensor/src/tweet/sensor/user/UserInfoUtil.java
+END
+UserInfoActivityClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/32/trunk/TweetSensor/src/tweet/sensor/user/UserInfoActivityClassifier.java
+END
